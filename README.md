@@ -1,2 +1,2 @@
 # Auth
-Autthencation form
+Autthentication form
